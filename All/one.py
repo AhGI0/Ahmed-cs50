@@ -1,3 +1,1 @@
-name =input("what's you name? ")
-print(f'hello, {name}',end='\n')
-print("i don't know!")
+print("hello,world \"Ahmed\"") # a creative method to fix this problem here and right now!
