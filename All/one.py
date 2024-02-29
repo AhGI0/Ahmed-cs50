@@ -1,1 +1,5 @@
-print("hello,world \"Ahmed\"") # a creative method to fix this problem here and right now!
+name ='            Ahmed sayed   '
+
+name = name.strip()
+
+print(name)
