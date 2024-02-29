@@ -1,5 +1,3 @@
-name ='            Ahmed sayed   '
+A= 10.15148
 
-name = name.strip()
-
-print(name)
+print(f'{A:.3f}')
