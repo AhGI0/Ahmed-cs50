@@ -8,3 +8,4 @@ for student,n in enumerate(students):
     print(n[student])
 
 
+
