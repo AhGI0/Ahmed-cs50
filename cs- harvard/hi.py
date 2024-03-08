@@ -1,15 +1,8 @@
-def main():
-    x  = input("Enter a number: ")
-    if is_even(int(x)):
-        print("Even")
-    else:
-        print("ODD")
-
-
-def is_even(ex):
-    return True if ex % 2 == 0 else False
-    
-
-
-
-main()
+students = {
+    "Hermoine": "Gryffindor",
+    "Harry": "Gryffindor",
+    "Ron": "Gryffindor",
+    "Draco": "Slytherin",
+}
+for student,n in enumerate(students):
+    print(n[student])
